@@ -1,3 +1,3 @@
-apple [insert by second user who want to push to Github]
+apple [insert by first user to push to Github] [insert by second user after first user's notes]
 insert by another Github user
-insert some words to test pull instead of fetch and merge
+insert some words to test pull instead of fetch and merge	
